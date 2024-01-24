@@ -1,0 +1,15 @@
+{
+  "name": "@vendrinc/steeloverseer",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vendrinc/steeloverseer"
+  },
+  "bin": {
+    "sos": "./sos"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public"
+  }
+}
